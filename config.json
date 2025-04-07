@@ -1,0 +1,11 @@
+{
+    "cases": {
+        "start_dir": "test_cases",
+        "pattern": "*_case.py"
+    },
+    "reports": {
+        "report_dir": "docs/reports",
+        "filename": "测试报告",
+        "descriptions": "测试的描述信息"
+    }
+}
